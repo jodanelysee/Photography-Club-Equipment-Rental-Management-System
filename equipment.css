@@ -1,0 +1,11 @@
+#EquipmentCardContainer{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.EquipmentCard{
+    display: block;
+    text-align: center;
+}
+.EquipmentImage{
+    max-width: 200px;
+}
